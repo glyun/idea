@@ -3,3 +3,5 @@ c:\>del /s /q ".DS_Store"
 
 
 git remote add 단축이름 주소
+
+추가 테스트
