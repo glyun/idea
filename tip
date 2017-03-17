@@ -5,5 +5,4 @@ c:\>del /s /q ".DS_Store"
 git remote add 단축이름 주소
 
 git remote set-url --add --push origin 주소
-
-dddd
+pushurl을 두번 사용하기 특히 pull을 생각해서 기본주소는 외부주소로 사용
