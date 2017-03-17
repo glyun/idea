@@ -6,4 +6,4 @@ git remote add 단축이름 주소
 
 git remote set-url --add --push origin 주소
 
-d
+dddd
