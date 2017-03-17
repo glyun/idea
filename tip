@@ -1,2 +1,5 @@
 윈도우 cmd 에서 같은 파일명 일괄삭제 방법
 c:\>del /s /q ".DS_Store"
+
+
+git remote add 단축이름 주소
